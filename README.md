@@ -4,4 +4,4 @@ Listed my solutions to leet code problems
 [Solution](https://github.com/sebastianBaquero98/Recyclable-and-Low-Fat-Products)
 
 ## 2. Find Customer Referee (Easy)
-[Solution](https://github.com/sebastianBaquero98/Recyclable-and-Low-Fat-Products)
+[Solution](https://github.com/sebastianBaquero98/Find-Customer-Referee)
