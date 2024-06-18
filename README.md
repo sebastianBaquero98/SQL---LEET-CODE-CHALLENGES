@@ -6,8 +6,8 @@ Listed my solutions to leet code problems
 ## 2. Find Customer Referee (Easy)
 [Solution](https://github.com/sebastianBaquero98/Find-Customer-Referee)
 
-## 2. Find Customer Referee (Easy)
+## 3. Find Customer Referee (Easy)
 [Solution](https://github.com/sebastianBaquero98/Find-Customer-Referee)
 
-## 3. Big Countries (Easy)
+## 4. Big Countries (Easy)
 [Solution](https://github.com/sebastianBaquero98/Big-Countries)
