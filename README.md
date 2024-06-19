@@ -16,3 +16,6 @@ Listed my solutions to leet code problems<br>
 
 ## 5. Article Views I (Easy)
 [View Solution](https://github.com/sebastianBaquero98/Article-Views-I)
+
+## 6. Not Boring Movies (Easy)
+[View Solution](https://github.com/sebastianBaquero98/Not-Boring-Movies)
