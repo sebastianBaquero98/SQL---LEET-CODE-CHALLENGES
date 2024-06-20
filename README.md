@@ -19,3 +19,6 @@ Listed my solutions to leet code problems<br>
 
 ## 6. Not Boring Movies (Easy)
 [View Solution](https://github.com/sebastianBaquero98/Not-Boring-Movies)
+
+## 7. Students and Examinations (Easy)
+[View Solution](https://github.com/sebastianBaquero98/Students-and-Examinations/tree/main)
