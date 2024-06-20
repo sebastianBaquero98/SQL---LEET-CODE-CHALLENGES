@@ -11,6 +11,8 @@ Listed my solutions to leet code problems<br>
     <li>Not Boring Movies <span><a href="https://github.com/sebastianBaquero98/Not-Boring-Movies">View Solution</a></span></li>
     <li>Students and Examinations <span><a href="https://github.com/sebastianBaquero98/Students-and-Examinations/tree/main">View Solution</a></span></li> 
     <li>Invalid Tweets <span><a href="https://github.com/sebastianBaquero98/Invalid-Tweets">View Solution</a></span></li>
+    <li>Replace Employee ID with The Unique Identifier<span><a href="https://github.com/sebastianBaquero98/Replace-Employee-ID-with-The-Unique-Identifier">View Solution</a></span></li>
+    
   </ol>
 </details>
 
