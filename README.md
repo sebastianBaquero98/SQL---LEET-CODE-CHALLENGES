@@ -25,3 +25,6 @@ Listed my solutions to leet code problems<br>
 
 ## 8. Managers with at Least 5 Direct Reports (Medium)
 [View Solution](https://github.com/sebastianBaquero98/Managers-with-at-Least-5-Direct-Reports)
+
+## 9. Confirmation Rate (Medium)
+[View Solution](https://github.com/sebastianBaquero98/Confirmation-Rate)
