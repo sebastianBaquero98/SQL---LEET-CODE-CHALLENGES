@@ -17,6 +17,8 @@ Listed my solutions to leet code problems<br>
     <li>Rising Temperature <span><a href="https://github.com/sebastianBaquero98/Rising-Temperature">View Solution</a></span></li>
     <li>Average Time of Process per Machine <span><a href="https://github.com/sebastianBaquero98/Average-Time-of-Process-per-Machine">View Solution</a></span></li>
     <li>Employee Bonus <span><a href="https://github.com/sebastianBaquero98/Employee-Bonus">View Solution</a></span></li>
+    <li>Average Sellin Price <span><a href="https://github.com/sebastianBaquero98/Average-Selling-Price">View Solution</a></span></li>
+    
     
   </ol>
 </details>
