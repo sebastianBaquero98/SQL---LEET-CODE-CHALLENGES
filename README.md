@@ -1,6 +1,6 @@
 # SQL-LEET-CODE-CHALLENGES<br>
 Listed my solutions to leet code problems<br>
-[Link to profile in leetcode](https://leetcode.com/u/sebasbaquero/)
+[Link to leetcode profile](https://leetcode.com/u/sebasbaquero/)
 
 ## 1. Recyclable and Low Fat Products (Easy)
 [View Solution](https://github.com/sebastianBaquero98/Recyclable-and-Low-Fat-Products)
