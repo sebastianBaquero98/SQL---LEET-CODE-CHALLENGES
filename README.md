@@ -12,6 +12,11 @@ Listed my solutions to leet code problems<br>
     <li>Students and Examinations <span><a href="https://github.com/sebastianBaquero98/Students-and-Examinations/tree/main">View Solution</a></span></li> 
     <li>Invalid Tweets <span><a href="https://github.com/sebastianBaquero98/Invalid-Tweets">View Solution</a></span></li>
     <li>Replace Employee ID with The Unique Identifier <span><a href="https://github.com/sebastianBaquero98/Replace-Employee-ID-with-The-Unique-Identifier">View Solution</a></span></li>
+    <li>Product Sales Analysis I <span><a href="https://github.com/sebastianBaquero98/Product-Sales-Analysis-I">View Solution</a></span></li>
+    <li>Customer Who Visited but Did Not Make Any Transactions <span><a href="https://github.com/sebastianBaquero98/Customer-Who-Visited-but-Did-Not-Make-Any-Transactions">View Solution</a></span></li>
+    <li>Rising Temperature <span><a href="https://github.com/sebastianBaquero98/Rising-Temperature">View Solution</a></span></li>
+    <li>Average Time of Process per Machine <span><a href="https://github.com/sebastianBaquero98/Average-Time-of-Process-per-Machine">View Solution</a></span></li>
+    <li>Employee Bonus <span><a href="https://github.com/sebastianBaquero98/Employee-Bonus">View Solution</a></span></li>
     
   </ol>
 </details>
