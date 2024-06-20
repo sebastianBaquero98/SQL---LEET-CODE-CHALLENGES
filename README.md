@@ -14,10 +14,11 @@ Listed my solutions to leet code problems<br>
 </details>
 
 <details>
-  <summary><b>Meadium Level Exercises</b></summary>
+  <summary><b>Medium Level Exercises</b></summary>
   <ol>
     <li>Managers with at Least 5 Direct Report <span><a href="https://github.com/sebastianBaquero98/Managers-with-at-Least-5-Direct-Reports">View Solution</a></span></li>
     <li>Confirmation Rate <span><a href="https://github.com/sebastianBaquero98/Confirmation-Rate">View Solution</a></span></li>
+    <li>Invalid Tweets <span><a href="https://github.com/sebastianBaquero98/Invalid-Tweets">View Solution</a></span></li>
   </ol>
 </details>
 
