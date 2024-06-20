@@ -22,3 +22,6 @@ Listed my solutions to leet code problems<br>
 
 ## 7. Students and Examinations (Easy)
 [View Solution](https://github.com/sebastianBaquero98/Students-and-Examinations/tree/main)
+
+## 8. Managers with at Least 5 Direct Reports (Medium)
+[View Solution](https://github.com/sebastianBaquero98/Managers-with-at-Least-5-Direct-Reports)
