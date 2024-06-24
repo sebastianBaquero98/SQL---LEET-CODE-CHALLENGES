@@ -19,9 +19,7 @@ Listed my solutions to leet code problems<br>
     <li>Employee Bonus <span><a href="https://github.com/sebastianBaquero98/Employee-Bonus">View Solution</a></span></li>
     <li>Average Sellin Price <span><a href="https://github.com/sebastianBaquero98/Average-Selling-Price">View Solution</a></span></li>
     <li>Project Employees I <span><a href="https://github.com/sebastianBaquero98/Project-Employees-I">View Solution</a></span></li>
-    
-    
-    
+    <li>Percentage of Users Attended a Contest <span><a href="https://github.com/sebastianBaquero98/Percentage-of-Users-Attended-a-Contest">View Solution</a></span></li>    
   </ol>
 </details>
 
