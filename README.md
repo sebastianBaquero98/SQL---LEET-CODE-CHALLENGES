@@ -31,6 +31,7 @@ Listed my solutions to leet code problems<br>
     <li>Confirmation Rate <span><a href="https://github.com/sebastianBaquero98/Confirmation-Rate">View Solution</a></span></li>
     <li>Monthly Transactions I <span><a href="https://github.com/sebastianBaquero98/Monthly-Transactions-I">View Solution</a></span></li>
     <li>Immediate Food Delivery II <span><a href="https://github.com/sebastianBaquero98/Immediate-Food-Delivery-II">View Solution</a></span></li>
+    <li>Game Play Analysis IV <span><a href="https://github.com/sebastianBaquero98/Game-Play-Analysis-IV">View Solution</a></span></li>
   </ol>
 </details>
 
