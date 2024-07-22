@@ -23,6 +23,7 @@ Listed my solutions to leet code problems<br>
     <li>Queries Quality and Percentage <span><a href="https://github.com/sebastianBaquero98/Queries-Quality-and-Percentage">View Solution</a></span></li>
     <li>Number of Unique Subjects Taught by Each Teacher <span><a href="https://github.com/sebastianBaquero98/Number-of-Unique-Subjects-Taught-by-Each-Teacher">View Solution</a></span></li>
     <li>User Activity for the Past 30 Days I <span><a href="https://github.com/sebastianBaquero98/User-Activity-for-the-Past-30-Days-I">View Solution</a></span></li>
+    <li>Classes More Than 5 Students <span><a href="https://github.com/sebastianBaquero98/Classes-More-Than-5-Students">View Solution</a></span></li>
   </ol>
 </details>
 
