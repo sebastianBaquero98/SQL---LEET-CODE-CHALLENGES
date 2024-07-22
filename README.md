@@ -21,6 +21,7 @@ Listed my solutions to leet code problems<br>
     <li>Project Employees I <span><a href="https://github.com/sebastianBaquero98/Project-Employees-I">View Solution</a></span></li>
     <li>Percentage of Users Attended a Contest <span><a href="https://github.com/sebastianBaquero98/Percentage-of-Users-Attended-a-Contest">View Solution</a></span></li>
     <li>Queries Quality and Percentage <span><a href="https://github.com/sebastianBaquero98/Queries-Quality-and-Percentage">View Solution</a></span></li>
+    <li>Number of Unique Subjects Taught by Each Teacher <span><a href="https://github.com/sebastianBaquero98/Number-of-Unique-Subjects-Taught-by-Each-Teacher">View Solution</a></span></li>
   </ol>
 </details>
 
