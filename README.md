@@ -25,6 +25,7 @@ Listed my solutions to leet code problems<br>
     <li>User Activity for the Past 30 Days I <span><a href="https://github.com/sebastianBaquero98/User-Activity-for-the-Past-30-Days-I">View Solution</a></span></li>
     <li>Classes More Than 5 Students <span><a href="https://github.com/sebastianBaquero98/Classes-More-Than-5-Students">View Solution</a></span></li>
     <li>Find Followers Count <span><a href="https://github.com/sebastianBaquero98/Find-Followers-Count">View Solution</a></span></li>
+    <li>Biggest Single Number <span><a href="https://github.com/sebastianBaquero98/Biggest-Single-Number">View Solution</a></span></li>
     
   </ol>
 </details>
