@@ -26,6 +26,7 @@ Listed my solutions to leet code problems<br>
     <li>Classes More Than 5 Students <span><a href="https://github.com/sebastianBaquero98/Classes-More-Than-5-Students">View Solution</a></span></li>
     <li>Find Followers Count <span><a href="https://github.com/sebastianBaquero98/Find-Followers-Count">View Solution</a></span></li>
     <li>Biggest Single Number <span><a href="https://github.com/sebastianBaquero98/Biggest-Single-Number">View Solution</a></span></li>
+    <li>The Number of Employees Which Report to Each Employee <span><a href="https://github.com/sebastianBaquero98/The-Number-of-Employees-Which-Report-to-Each-Employee">View Solution</a></span></li>
     
   </ol>
 </details>
