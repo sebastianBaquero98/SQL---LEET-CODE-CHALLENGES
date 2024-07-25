@@ -61,6 +61,7 @@ Listed my solutions to leet code problems<br>
     <li>Primary Department for Each Employee <span><a href="https://github.com/sebastianBaquero98/Primary-Department-for-Each-Employee">View Solution</a></span></li>
     <li>Triangle Judgement <span><a href="https://github.com/sebastianBaquero98/Triangle-Judgement">View Solution</a></span></li>
     <li>Consecutive Numbers <span><a href="https://github.com/sebastianBaquero98/Consecutive-Numbers">View Solution</a></span></li>
+    <li>Product Price at a Given Date <span><a href="https://github.com/sebastianBaquero98/Product-Price-at-a-Given-Date">View Solution</a></span></li>
   </ol>
 </details>
 
