@@ -60,6 +60,7 @@ Listed my solutions to leet code problems<br>
      <li>The Number of Employees Which Report to Each Employee <span><a href="https://github.com/sebastianBaquero98/The-Number-of-Employees-Which-Report-to-Each-Employee">View Solution</a></span></li>
     <li>Primary Department for Each Employee <span><a href="https://github.com/sebastianBaquero98/Primary-Department-for-Each-Employee">View Solution</a></span></li>
     <li>Triangle Judgement <span><a href="https://github.com/sebastianBaquero98/Triangle-Judgement">View Solution</a></span></li>
+    <li>Consecutive Numbers <span><a href="https://github.com/sebastianBaquero98/Consecutive-Numbers">View Solution</a></span></li>
   </ol>
 </details>
 
