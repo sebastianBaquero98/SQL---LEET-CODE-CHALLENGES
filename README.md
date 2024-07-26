@@ -63,6 +63,7 @@ Listed my solutions to leet code problems<br>
     <li>Consecutive Numbers <span><a href="https://github.com/sebastianBaquero98/Consecutive-Numbers">View Solution</a></span></li>
     <li>Product Price at a Given Date <span><a href="https://github.com/sebastianBaquero98/Product-Price-at-a-Given-Date">View Solution</a></span></li>
     <li>Last Person to Fit in the Bus <span><a href="https://github.com/sebastianBaquero98/Last-Person-to-Fit-in-the-Bus">View Solution</a></span></li>
+    <li>Count Salary Categories <span><a href="https://github.com/sebastianBaquero98/Count-Salary-Categories">View Solution</a></span></li>
   </ol>
 </details>
 
