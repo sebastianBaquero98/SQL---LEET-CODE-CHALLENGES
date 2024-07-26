@@ -67,6 +67,13 @@ Listed my solutions to leet code problems<br>
   </ol>
 </details>
 
+<details>
+  <summary><b>Subquery Exercises</b></summary>
+  <ol>
+    <li>Employees Whose Manager Left the Company <span><a href="https://github.com/sebastianBaquero98/Employees-Whose-Manager-Left-the-Company">View Solution</a></span></li>
+  </ol>
+</details>
+
 
 
 
