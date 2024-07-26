@@ -71,6 +71,7 @@ Listed my solutions to leet code problems<br>
   <summary><b>Subquery Exercises</b></summary>
   <ol>
     <li>Employees Whose Manager Left the Company <span><a href="https://github.com/sebastianBaquero98/Employees-Whose-Manager-Left-the-Company">View Solution</a></span></li>
+    <li>Exchange Seats <span><a href="https://github.com/sebastianBaquero98/Exchange-Seats">View Solution</a></span></li>
   </ol>
 </details>
 
