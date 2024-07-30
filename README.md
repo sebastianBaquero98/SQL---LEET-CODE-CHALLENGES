@@ -73,6 +73,7 @@ Listed my solutions to leet code problems<br>
     <li>Employees Whose Manager Left the Company <span><a href="https://github.com/sebastianBaquero98/Employees-Whose-Manager-Left-the-Company">View Solution</a></span></li>
     <li>Exchange Seats <span><a href="https://github.com/sebastianBaquero98/Exchange-Seats">View Solution</a></span></li>
     <li>Movie Rating <span><a href="https://github.com/sebastianBaquero98/Movie-Rating">View Solution</a></span></li>
+    <li>Restaurant Growth <span><a href="https://github.com/sebastianBaquero98/Restaurant-Growth">View Solution</a></span></li>
   </ol>
 </details>
 
