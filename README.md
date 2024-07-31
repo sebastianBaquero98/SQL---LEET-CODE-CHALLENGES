@@ -74,6 +74,7 @@ Listed my solutions to leet code problems<br>
     <li>Exchange Seats <span><a href="https://github.com/sebastianBaquero98/Exchange-Seats">View Solution</a></span></li>
     <li>Movie Rating <span><a href="https://github.com/sebastianBaquero98/Movie-Rating">View Solution</a></span></li>
     <li>Restaurant Growth <span><a href="https://github.com/sebastianBaquero98/Restaurant-Growth">View Solution</a></span></li>
+    <li>Friend Requests II: Who Has the Most Friends <span><a href="https://github.com/sebastianBaquero98/Friend-Requests-II-Who-Has-the-Most-Friends">View Solution</a></span></li>
   </ol>
 </details>
 
