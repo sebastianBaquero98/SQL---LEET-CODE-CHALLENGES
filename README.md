@@ -76,6 +76,7 @@ Listed my solutions to leet code problems<br>
     <li>Restaurant Growth <span><a href="https://github.com/sebastianBaquero98/Restaurant-Growth">View Solution</a></span></li>
     <li>Friend Requests II: Who Has the Most Friends <span><a href="https://github.com/sebastianBaquero98/Friend-Requests-II-Who-Has-the-Most-Friends">View Solution</a></span></li>
     <li>Investments in 2016 <span><a href="https://github.com/sebastianBaquero98/Investments-in-2016">View Solution</a></span></li>
+    <li>Department Top Three Salaries <span><a href="https://github.com/sebastianBaquero98/Department-Top-Three-Salaries">View Solution</a></span></li>
   </ol>
 </details>
 
