@@ -84,6 +84,8 @@ Listed my solutions to leet code problems<br>
   <summary><b>Advanced String Functions / Regex / Clause Exercises</b></summary>
   <ol>
     <li>Fix Names in a Table <span><a href="https://github.com/sebastianBaquero98/Fix-Names-in-a-Table">View Solution</a></span></li>
+    <li>Patients With a Condition <span><a href="https://github.com/sebastianBaquero98/Patients-With-a-Condition">View Solution</a></span></li>
+    
   </ol>
 </details>
 
