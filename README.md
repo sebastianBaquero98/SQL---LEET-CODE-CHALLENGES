@@ -87,6 +87,7 @@ Listed my solutions to leet code problems<br>
     <li>Patients With a Condition <span><a href="https://github.com/sebastianBaquero98/Patients-With-a-Condition">View Solution</a></span></li>
     <li>Delete Duplicate Emails <span><a href="https://github.com/sebastianBaquero98/Delete-Duplicate-Emails">View Solution</a></span></li>
     <li>Second Highest Salary <span><a href="https://github.com/sebastianBaquero98/Second-Highest-Salary">View Solution</a></span></li>
+    <li>Group Sold Products By The Date <span><a href="https://github.com/sebastianBaquero98/Group-Sold-Products-By-The-Date">View Solution</a></span></li>
   </ol>
 </details>
 
