@@ -89,6 +89,7 @@ Listed my solutions to leet code problems<br>
     <li>Second Highest Salary <span><a href="https://github.com/sebastianBaquero98/Second-Highest-Salary">View Solution</a></span></li>
     <li>Group Sold Products By The Date <span><a href="https://github.com/sebastianBaquero98/Group-Sold-Products-By-The-Date">View Solution</a></span></li>
     <li>List the Products Ordered in a Period <span><a href="https://github.com/sebastianBaquero98/List-the-Products-Ordered-in-a-Period">View Solution</a></span></li>
+    <li>Find Users With Valid E-Mails <span><a href="https://github.com/sebastianBaquero98/Find-Users-With-Valid-E-Mails">View Solution</a></span></li>
   </ol>
 </details>
 
